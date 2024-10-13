@@ -1,0 +1,30 @@
+{
+  "name": "ddt-website",
+  "version": "0.0.1",
+  "description": "Homepage for Disability Data and Tech",
+  "type": "module",
+  "private": false,
+  "author": "Lavra Tamutus",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tamutus/ddt-website.git"
+  },
+  "bugs": {
+    "url": "https://github.com/tamutus/ddt-website/issues"
+  },
+  "homepage": "https://github.com/tamutus/ddt-website#readme",
+  "license": "MIT",
+  "scripts": {
+    "build": "nuxt build",
+    "dev": "nuxt dev",
+    "generate": "nuxt generate",
+    "preview": "nuxt preview",
+    "postinstall": "nuxt prepare"
+  },
+  "dependencies": {
+    "@nuxt/eslint": "^0.5.7",
+    "nuxt": "^3.13.0",
+    "vue": "latest",
+    "vue-router": "latest"
+  }
+}
