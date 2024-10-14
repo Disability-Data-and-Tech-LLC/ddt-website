@@ -2,77 +2,79 @@
 
 This is the source code for the homepage of Disability Data and Tech, LLC. The primary purpose of this website is to showcase service offerings.
 
-# Nuxt 3
+## Development
+
+### Nuxt 3
 
 Look at the [Nuxt 3 documentation](https://nuxt.com/docs/getting-started/introduction) to learn more.
 
-## Setup
+#### Setup
 
 Make sure to install the dependencies:
 
 ```bash
-# npm
+#### npm
 npm install
 
-# pnpm
+#### pnpm
 pnpm install
 
-# yarn
+#### yarn
 yarn install
 
-# bun
+#### bun
 bun install
 ```
 
-## Development Server
+##### Development Server
 
 Start the development server on `http://localhost:3000`:
 
 ```bash
-# npm
+#### npm
 npm run dev
 
-# pnpm
+#### pnpm
 pnpm run dev
 
-# yarn
+#### yarn
 yarn dev
 
-# bun
+#### bun
 bun run dev
 ```
 
-## Production
+##### Production
 
 Build the application for production:
 
 ```bash
-# npm
+#### npm
 npm run build
 
-# pnpm
+#### pnpm
 pnpm run build
 
-# yarn
+#### yarn
 yarn build
 
-# bun
+#### bun
 bun run build
 ```
 
 Locally preview production build:
 
 ```bash
-# npm
+#### npm
 npm run preview
 
-# pnpm
+#### pnpm
 pnpm run preview
 
-# yarn
+#### yarn
 yarn preview
 
-# bun
+#### bun
 bun run preview
 ```
 
